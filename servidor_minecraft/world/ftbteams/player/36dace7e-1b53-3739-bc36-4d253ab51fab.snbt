@@ -1,0 +1,17 @@
+{
+	id: "36dace7e-1b53-3739-bc36-4d253ab51fab"
+	type: "player"
+	player_name: "RUBENXD731"
+	ranks: {
+		36dace7e-1b53-3739-bc36-4d253ab51fab: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RUBENXD731"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59ED"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

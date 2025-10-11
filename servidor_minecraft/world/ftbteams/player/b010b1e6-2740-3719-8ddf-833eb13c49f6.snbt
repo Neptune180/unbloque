@@ -1,0 +1,15 @@
+{
+	id: "b010b1e6-2740-3719-8ddf-833eb13c49f6"
+	type: "player"
+	player_name: "Mctrickfr"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Mctrickfr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5998"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

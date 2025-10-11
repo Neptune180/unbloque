@@ -1,0 +1,17 @@
+{
+	id: "6ffadbb0-e467-4643-a357-2c492cf1f768"
+	type: "party"
+	owner: "b010b1e6-2740-3719-8ddf-833eb13c49f6"
+	ranks: {
+		b010b1e6-2740-3719-8ddf-833eb13c49f6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mctrickfr's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5998"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1759972864407L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Mctrickfr\"}]}" }]
+	extra: { }
+}
